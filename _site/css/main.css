@@ -3,6 +3,13 @@ body {
   height: 100%;
   width: 100%; }
 
+#fullpage {
+  background-image: url("../img/nc-bg.jpg");
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
 @font-face {
   font-family: 'CircularStd-Book';
   src: url("../fonts/CircularStd-Book.eot");
