@@ -20,6 +20,7 @@
 #email{
 @include responsive-font(2.5vw, 16px, 100px);
 margin-top: 5px;
+transform: translate3d(0,-10px,0);
 }
 //Responsive body text
 .center-div p{
