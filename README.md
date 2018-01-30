@@ -1,2 +1,2 @@
 # Nothing&Co
-&copy; 2017
+&copy; 2018
